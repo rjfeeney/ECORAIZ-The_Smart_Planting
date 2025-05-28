@@ -1,70 +1,64 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+# EcoRaiz: Smart Planting System
 
-In the project directory, you can run:
+**EcoRaiz** is an intelligent planting system designed to help transform dry, barren land into thriving green forests. The system uses advanced image processing and environmental analysis to determine the best areas and plant species for cultivation.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## 🌱 How It Works
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+1. **Upload Plot Image**
+   The user begins by uploading a top-view photo of the land or plot.
 
-### `npm test`
+2. **Automatic Division**
+   EcoRaiz automatically divides the uploaded image into smaller sub-plots for detailed analysis.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+3. **Input Environmental Data**
+   For each sub-plot, the user enters key environmental parameters:
 
-### `npm run build`
+   * Temperature
+   * Humidity
+   * Soil pH
+   * Soil Moisture
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+4. **Analysis and Ranking**
+   Based on the input data, the system analyzes each sub-plot and:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+   * Determines which areas are currently suitable for planting.
+   * Suggests the most suitable tree species for each sub-plot, prioritizing trees with a minimum lifespan of 20 to 50 years.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+5. **Visual Output**
+   The system generates a visual ranking overlay on the divided plot image, highlighting the best zones for planting and the recommended tree types.
 
-### `npm run eject`
+---
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+## 🚧 Project Status
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+> ⚠️ **This project is currently in progress and is in the prototype stage.**
+> We are actively seeking **contributors** to help develop and improve the system.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+---
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+## 🔮 Future Plans
 
-## Learn More
+* Integrate **machine learning** to automate and improve the accuracy of environmental analysis and tree recommendations.
+* Allow users to **add custom features** and enhancements.
+* Expand support for more diverse ecosystems and tree databases.
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+---
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+## 🤝 Contributors
 
-### Code Splitting
+We welcome contributions from developers, designers, environmental scientists, and anyone passionate about reforestation and sustainability. If you're interested in contributing, please fork the repository, make your changes, and submit a pull request.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+> 💡 Add your contributionn save the World:
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+---
 
-### Making a Progressive Web App
+## 🌍 Mission
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+EcoRaiz is committed to combating land degradation by enabling data-driven, sustainable afforestation. Our goal is to assist users in converting dry, underutilized lands into vibrant green forests that can thrive for decades.
 
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+---
