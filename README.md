@@ -1,6 +1,6 @@
 
 
-# EcoRaiz: Smart Planting System
+# EcoRaiz : Smart Planting System 🌿
 
 **EcoRaiz** is an intelligent planting system designed to help transform dry, barren land into thriving green forests. The system uses advanced image processing and environmental analysis to determine the best areas and plant species for cultivation.
 
@@ -12,7 +12,7 @@
    The user begins by uploading a top-view photo of the land or plot.
 
 2. **Automatic Division**
-   EcoRaiz automatically divides the uploaded image into smaller sub-plots for detailed analysis.
+   🌳 EcoRaiz automatically divides the uploaded image into smaller sub-plots for detailed analysis.🌿
 
 3. **Input Environmental Data**
    For each sub-plot, the user enters key environmental parameters:
