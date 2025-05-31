@@ -52,7 +52,7 @@
 
 We welcome contributions from developers, designers, environmental scientists, and anyone passionate about reforestation and sustainability. If you're interested in contributing, please fork the repository, make your changes, and submit a pull request.
 
-> 💡 Add your contributionn save the World:
+> 💡 Add your contributionn to save the World:
 
 
 ---
