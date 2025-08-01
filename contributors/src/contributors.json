@@ -1,0 +1,56 @@
+[
+  {
+    "id": 1,
+    "name": "Suryanarayanan",
+    "points": 20,
+    "currentTask": "",
+    "lastAction": "",
+    "avatar": "https://avatars.githubusercontent.com/u/144770284?v=4",
+    "git":"https://github.com/SuryaNarayananDev"
+  },
+  {
+    "id": 2,
+    "name": "Thiliban",
+    "points": 20,
+    "currentTask": "",
+    "lastAction": "",
+    "avatar": "https://avatars.githubusercontent.com/u/171135586?v=4",
+    "git":"https://github.com/thilip18dev"
+  },
+  {
+    "id": 3,
+    "name": "Siva Prasanth",
+    "points": 20,
+    "currentTask": "",
+    "lastAction": "",
+    "avatar": "https://avatars.githubusercontent.com/u/171135586?v=4",
+    "git":"https://github.com/thilip18dev"
+  },
+  {
+    "id": 4,
+    "name": "Vijaymani",
+    "points": 20,
+    "currentTask": "",
+    "lastAction": "",
+    "avatar": "https://avatars.githubusercontent.com/u/171135586?v=4",
+    "git":"https://github.com/thilip18dev"
+  },
+  {
+    "id": 5,
+    "name": "Santhosh",
+    "points": 20,
+    "currentTask": "",
+    "lastAction": "",
+    "avatar": "https://avatars.githubusercontent.com/u/191823289?v=4",
+    "git":"https://github.com/santhosh-103"
+  },
+  {
+    "id": 6,
+    "name": "Sanoj",
+    "points": 20,
+    "currentTask": "",
+    "lastAction": "",
+    "avatar": "https://avatars.githubusercontent.com/u/171135586?v=4",
+    "git":"https://github.com/thilip18dev"
+  }
+]
