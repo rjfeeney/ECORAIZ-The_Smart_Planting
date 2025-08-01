@@ -1,0 +1,512 @@
+[
+  {
+    "name": "Peepal Tree \ud83c\udf3f",
+    "role": "Oxygen producer, sacred",
+    "lifespan": "150+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      20,
+      50
+    ]
+  },
+  {
+    "name": "River Birch",
+    "role": "Shade tree, flood-tolerant",
+    "lifespan": "50\u201380 years",
+    "pH": [
+      4.5,
+      6.0
+    ],
+    "humidity": [
+      40,
+      80
+    ],
+    "moisture": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Red Maple",
+    "role": "Urban ornamental, fall color",
+    "lifespan": "80\u2013100 years",
+    "pH": [
+      4.7,
+      7.3
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      80
+    ]
+  },
+  {
+    "name": "Swamp White Oak",
+    "role": "Native oak, habitat provider",
+    "lifespan": "200\u2013300+ years",
+    "pH": [
+      5.0,
+      7.4
+    ],
+    "humidity": [
+      40,
+      90
+    ],
+    "moisture": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Ginkgo",
+    "role": "Pollution\u2011tolerant urban tree",
+    "lifespan": "1000+ years",
+    "pH": [
+      5.5,
+      7.5
+    ],
+    "humidity": [
+      30,
+      60
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "European Beech",
+    "role": "Ornamental, dense shade",
+    "lifespan": "300+ years",
+    "pH": [
+      5.0,
+      7.0
+    ],
+    "humidity": [
+      40,
+      80
+    ],
+    "moisture": [
+      50,
+      80
+    ]
+  },
+  {
+    "name": "Teak",
+    "role": "Timber hardwood, durable wood",
+    "lifespan": "70\u2013100 years",
+    "pH": [
+      6.0,
+      7.0
+    ],
+    "humidity": [
+      50,
+      90
+    ],
+    "moisture": [
+      60,
+      90
+    ]
+  },
+  {
+    "name": "Hackberry",
+    "role": "Drought and pH tolerant",
+    "lifespan": "150+ years",
+    "pH": [
+      5.0,
+      8.0
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Black Gum",
+    "role": "Wetland tree, wildlife food",
+    "lifespan": "200+ years",
+    "pH": [
+      4.6,
+      7.0
+    ],
+    "humidity": [
+      40,
+      90
+    ],
+    "moisture": [
+      60,
+      90
+    ]
+  },
+  {
+    "name": "Scots Pine",
+    "role": "Conifer, windbreak & timber",
+    "lifespan": "150\u2013300 years",
+    "pH": [
+      5.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      60
+    ]
+  },
+  {
+    "name": "Peepal Tree \ud83c\udf3f",
+    "role": "Oxygen producer, sacred",
+    "lifespan": "150+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      20,
+      50
+    ]
+  },
+  {
+    "name": "River Birch",
+    "role": "Shade tree, flood-tolerant",
+    "lifespan": "50\u201380 years",
+    "pH": [
+      4.5,
+      6.0
+    ],
+    "humidity": [
+      40,
+      80
+    ],
+    "moisture": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Red Maple",
+    "role": "Urban ornamental, fall color",
+    "lifespan": "80\u2013100 years",
+    "pH": [
+      4.7,
+      7.3
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      80
+    ]
+  },
+  {
+    "name": "Swamp White Oak",
+    "role": "Native oak, habitat provider",
+    "lifespan": "200\u2013300+ years",
+    "pH": [
+      5.0,
+      7.4
+    ],
+    "humidity": [
+      40,
+      90
+    ],
+    "moisture": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Ginkgo",
+    "role": "Pollution\u2011tolerant urban tree",
+    "lifespan": "1000+ years",
+    "pH": [
+      5.5,
+      7.5
+    ],
+    "humidity": [
+      30,
+      60
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "European Beech",
+    "role": "Ornamental, dense shade",
+    "lifespan": "300+ years",
+    "pH": [
+      5.0,
+      7.0
+    ],
+    "humidity": [
+      40,
+      80
+    ],
+    "moisture": [
+      50,
+      80
+    ]
+  },
+  {
+    "name": "Teak",
+    "role": "Timber hardwood, durable wood",
+    "lifespan": "70\u2013100 years",
+    "pH": [
+      6.0,
+      7.0
+    ],
+    "humidity": [
+      50,
+      90
+    ],
+    "moisture": [
+      60,
+      90
+    ]
+  },
+  {
+    "name": "Hackberry",
+    "role": "Drought and pH tolerant",
+    "lifespan": "150+ years",
+    "pH": [
+      5.0,
+      8.0
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Black Gum",
+    "role": "Wetland tree, wildlife food",
+    "lifespan": "200+ years",
+    "pH": [
+      4.6,
+      7.0
+    ],
+    "humidity": [
+      40,
+      90
+    ],
+    "moisture": [
+      60,
+      90
+    ]
+  },
+  {
+    "name": "Scots Pine",
+    "role": "Conifer, windbreak & timber",
+    "lifespan": "150\u2013300 years",
+    "pH": [
+      5.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      60
+    ]
+  },
+  {
+    "name": "Peepal Tree \ud83c\udf3f",
+    "role": "Oxygen producer, sacred",
+    "lifespan": "150+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      20,
+      50
+    ]
+  },
+  {
+    "name": "River Birch",
+    "role": "Shade tree, flood-tolerant",
+    "lifespan": "50\u201380 years",
+    "pH": [
+      4.5,
+      6.0
+    ],
+    "humidity": [
+      40,
+      80
+    ],
+    "moisture": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Red Maple",
+    "role": "Urban ornamental, fall color",
+    "lifespan": "80\u2013100 years",
+    "pH": [
+      4.7,
+      7.3
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      80
+    ]
+  },
+  {
+    "name": "Swamp White Oak",
+    "role": "Native oak, habitat provider",
+    "lifespan": "200\u2013300+ years",
+    "pH": [
+      5.0,
+      7.4
+    ],
+    "humidity": [
+      40,
+      90
+    ],
+    "moisture": [
+      60,
+      100
+    ]
+  },
+  {
+    "name": "Ginkgo",
+    "role": "Pollution\u2011tolerant urban tree",
+    "lifespan": "1000+ years",
+    "pH": [
+      5.5,
+      7.5
+    ],
+    "humidity": [
+      30,
+      60
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "European Beech",
+    "role": "Ornamental, dense shade",
+    "lifespan": "300+ years",
+    "pH": [
+      5.0,
+      7.0
+    ],
+    "humidity": [
+      40,
+      80
+    ],
+    "moisture": [
+      50,
+      80
+    ]
+  },
+  {
+    "name": "Teak",
+    "role": "Timber hardwood, durable wood",
+    "lifespan": "70\u2013100 years",
+    "pH": [
+      6.0,
+      7.0
+    ],
+    "humidity": [
+      50,
+      90
+    ],
+    "moisture": [
+      60,
+      90
+    ]
+  },
+  {
+    "name": "Hackberry",
+    "role": "Drought and pH tolerant",
+    "lifespan": "150+ years",
+    "pH": [
+      5.0,
+      8.0
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Black Gum",
+    "role": "Wetland tree, wildlife food",
+    "lifespan": "200+ years",
+    "pH": [
+      4.6,
+      7.0
+    ],
+    "humidity": [
+      40,
+      90
+    ],
+    "moisture": [
+      60,
+      90
+    ]
+  },
+  {
+    "name": "Scots Pine",
+    "role": "Conifer, windbreak & timber",
+    "lifespan": "150\u2013300 years",
+    "pH": [
+      5.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      60
+    ]
+  }
+]
