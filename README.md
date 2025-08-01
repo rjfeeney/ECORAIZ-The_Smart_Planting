@@ -128,8 +128,5 @@ EcoRaiz is dedicated to data-driven reforestation. Our vision is to empower user
 ---
 
 ## 🔗 Links
-
-- 🔗 [Live Demo (Coming Soon)](#)
 - 📫 Contact: suryavignesh6238@gmail.com
-- 🌐 Portfolio: [suryanarayanans.netlify.app](https://suryanarayanans.netlify.app)
-- 🐙 GitHub: [@SuryaNarayananDev](https://github.com/SuryaNarayananDev)
+- 📫 LinkedIn: [Click](https://www.linkedin.com/in/suryanarayanandev67/)
