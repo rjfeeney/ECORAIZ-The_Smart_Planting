@@ -36,8 +36,7 @@
 - **Frontend**: React.js
 - **Backend**: Node.js (Express)
 - **Image Processing**: Python (OpenCV, PIL, NumPy)
-- **Database**: MongoDB (or your preferred storage)
-- **Deployment**: Render / Vercel / Railway *(based on your choice)*
+- **Database**: MongoDB
 
 ---
 
