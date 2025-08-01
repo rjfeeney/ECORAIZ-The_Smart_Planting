@@ -1,3 +1,4 @@
+
 # 🌿 EcoRaiz: The Smart Planting System
 
 **EcoRaiz** is an intelligent planting system designed to help transform dry, barren land into thriving green forests. By combining image processing and environmental analysis, it identifies the best zones for planting and recommends tree species based on sustainability, soil condition, and climate.
@@ -46,95 +47,103 @@
    ```bash
    git clone https://github.com/SuryaNarayananDev/ECORAIZ-The_Smart_Planting.git
    cd ECORAIZ-The_Smart_Planting
-Frontend Setup
+   ```
 
-bash
-Copy
-Edit
-cd frontend
-npm install
-npm run dev
-Backend Setup
+2. **Frontend Setup**
+   ```bash
+   cd frontend
+   npm install
+   npm run dev
+   ```
 
-bash
-Copy
-Edit
-cd backend
-npm install
-npm run start
-Python (Image Processing) Setup
+3. **Backend Setup**
+   ```bash
+   cd backend
+   npm install
+   npm run start
+   ```
 
-bash
-Copy
-Edit
-cd image-processing
-pip install -r requirements.txt
-python app.py
-Ensure all services (frontend, backend, and Python server) are running concurrently.
+4. **Python (Image Processing) Setup**
+   ```bash
+   cd image-processing
+   pip install -r requirements.txt
+   python app.py
+   ```
 
-**🛠️ Tasks & Issues**
-✅ Core Modules (MVP)
- Image upload and preview
+> Ensure all services (frontend, backend, and Python server) are running concurrently.
 
- Auto-subdivision of image
+---
 
- Manual input of environmental values
+## 🛠️ Tasks & Issues
 
- Tree recommendation logic
+### ✅ Core Modules (MVP)
+- [x] Image upload and preview
+- [x] Auto-subdivision of image
+- [x] Manual input of environmental values
+- [x] Tree recommendation logic
+- [x] Visual ranking output
 
- Visual ranking output
+### 📌 To-Do (Raise as GitHub Issues)
+- [ ] Integrate ML for tree prediction
+- [ ] Improve UI/UX of form and map
+- [ ] Display tree info dynamically
+- [ ] Add login/auth (optional)
+- [ ] Add mobile responsiveness
 
-**📌 To-Do (Raise as GitHub Issues)**
+---
 
- Integrate ML for tree prediction
+## 🏷 GitHub Labels
 
- Improve UI/UX of form and map
-
- Display tree info dynamically
-
- Add login/auth (optional)
-
- Add mobile responsiveness
-
-**🏷 GitHub Labels**
 We use labels to manage contributions:
 
-Label Name	Purpose
-good first issue	Beginner-friendly tasks
-feature	New functionality/features
-bug	Unexpected behavior/fix
-enhancement	UI/UX or performance improvements
-help wanted	Needs more eyes or collaboration
-documentation	Related to README, setup, or guides
-question	Open-ended or usage queries
-design	UI or graphic related tasks
+| Label Name           | Purpose                                      |
+|----------------------|----------------------------------------------|
+| `good first issue`   | Beginner-friendly tasks                      |
+| `feature`            | New functionality/features                   |
+| `bug`                | Unexpected behavior/fix                      |
+| `enhancement`        | UI/UX or performance improvements            |
+| `help wanted`        | Needs more eyes or collaboration             |
+| `documentation`      | Related to README, setup, or guides          |
+| `question`           | Open-ended or usage queries                  |
+| `design`             | UI or graphic related tasks                  |
 
-🤝 Contributing
+---
+
+## 🤝 Contributing
+
 We welcome contributions from:
 
-👨‍💻 Developers (JS, Python, ML)
+- 👨‍💻 Developers (JS, Python, ML)
+- 🧪 Environmental Scientists
+- 🎨 Designers
+- 🌱 Sustainability Enthusiasts
 
-🧪 Environmental Scientists
+### 📌 Steps to Contribute:
+1. Fork the repository
+2. Create your feature branch: `git checkout -b feature-name`
+3. Commit your changes: `git commit -m "Add feature"`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request
 
-🎨 Designers
+---
 
-🌱 Sustainability Enthusiasts
+## 📄 License
 
-📌 Steps to Contribute:
-Fork the repository
+This project is open-source and available under the [MIT License](LICENSE).
 
-Create your feature branch: git checkout -b feature-name
+---
 
-Commit your changes: git commit -m "Add feature"
+## 🌍 Mission
 
-Push to the branch: git push origin feature-name
-
-Submit a pull request
-
-📄 License
-This project is open-source and available under the MIT License.
-
-🌍 Mission
 EcoRaiz is dedicated to data-driven reforestation. Our vision is to empower users to convert underutilized land into flourishing green zones with long-lasting ecological impact.
 
-“Plant data, grow forests.” 🌱
+> **“Plant data, grow forests.” 🌱**
+
+---
+
+## 🔗 Links
+
+- 🔗 [Live Demo (Coming Soon)](#)
+- 📫 Contact: suryavignesh6238@gmail.com
+- 🌐 Portfolio: [suryanarayanans.netlify.app](https://suryanarayanans.netlify.app)
+- 🐙 GitHub: [@SuryaNarayananDev](https://github.com/SuryaNarayananDev)
