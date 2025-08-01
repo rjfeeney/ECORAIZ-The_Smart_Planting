@@ -51,26 +51,13 @@
 
 2. **Frontend Setup**
    ```bash
-   cd frontend
+   cd ECORAIZ-The_Smart_Planting
    npm install
-   npm run dev
+   npm start
    ```
 
-3. **Backend Setup**
-   ```bash
-   cd backend
-   npm install
-   npm run start
-   ```
 
-4. **Python (Image Processing) Setup**
-   ```bash
-   cd image-processing
-   pip install -r requirements.txt
-   python app.py
-   ```
-
-> Ensure all services (frontend, backend, and Python server) are running concurrently.
+> Ensure all services run properly
 
 ---
 
