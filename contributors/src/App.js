@@ -8,7 +8,12 @@ function App() {
 
   // Filter and sort contributors
   const filtered = contributors
-    .filter(c => c.name.toLowerCase().includes(search.toLowerCase()))
+    .filter(c => {
+      const searchText = search.trim().toLowerCase();
+      const name = (c.name || '').trim().toLowerCase();
+      const git = (c.git || '').trim().toLowerCase();
+      return name.includes(searchText) || git.includes(searchText);
+    })
     .sort((a, b) => b.points - a.points);
 
   return (
