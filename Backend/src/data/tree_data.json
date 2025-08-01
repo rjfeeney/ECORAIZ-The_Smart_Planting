@@ -1,0 +1,1702 @@
+[
+  {
+    "name": "Baobab Tree \ud83c\udf33",
+    "role": "Water storage, cultural symbol",
+    "lifespan": "1000+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Cedar of Lebanon",
+    "role": "Timber, ornamental, sacred",
+    "lifespan": "1000+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Olive Tree",
+    "role": "Fruit, oil production, symbolic",
+    "lifespan": "500\u20131000 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Coast Redwood",
+    "role": "Tallest tree, carbon storage",
+    "lifespan": "1200+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "White Oak",
+    "role": "Wildlife habitat, hardwood",
+    "lifespan": "200\u2013300 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Walnut Tree",
+    "role": "Nut production, timber",
+    "lifespan": "80\u2013150 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Jackfruit Tree",
+    "role": "Fruit production, shade",
+    "lifespan": "100+ years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Coconut Palm",
+    "role": "Fruit, coastal protection",
+    "lifespan": "60\u2013100 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Neem Tree",
+    "role": "Medicinal, pest repellent",
+    "lifespan": "100\u2013200 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Indian Rosewood (Sheesham)",
+    "role": "Timber, nitrogen fixer",
+    "lifespan": "60\u201380 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 11",
+    "role": "Role description 11",
+    "lifespan": "61 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 12",
+    "role": "Role description 12",
+    "lifespan": "62 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 13",
+    "role": "Role description 13",
+    "lifespan": "63 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 14",
+    "role": "Role description 14",
+    "lifespan": "64 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 15",
+    "role": "Role description 15",
+    "lifespan": "65 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 16",
+    "role": "Role description 16",
+    "lifespan": "66 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 17",
+    "role": "Role description 17",
+    "lifespan": "67 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 18",
+    "role": "Role description 18",
+    "lifespan": "68 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 19",
+    "role": "Role description 19",
+    "lifespan": "69 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 20",
+    "role": "Role description 20",
+    "lifespan": "70 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 21",
+    "role": "Role description 21",
+    "lifespan": "71 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 22",
+    "role": "Role description 22",
+    "lifespan": "72 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 23",
+    "role": "Role description 23",
+    "lifespan": "73 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 24",
+    "role": "Role description 24",
+    "lifespan": "74 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 25",
+    "role": "Role description 25",
+    "lifespan": "75 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 26",
+    "role": "Role description 26",
+    "lifespan": "76 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 27",
+    "role": "Role description 27",
+    "lifespan": "77 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 28",
+    "role": "Role description 28",
+    "lifespan": "78 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 29",
+    "role": "Role description 29",
+    "lifespan": "79 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 30",
+    "role": "Role description 30",
+    "lifespan": "80 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 31",
+    "role": "Role description 31",
+    "lifespan": "81 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 32",
+    "role": "Role description 32",
+    "lifespan": "82 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 33",
+    "role": "Role description 33",
+    "lifespan": "83 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 34",
+    "role": "Role description 34",
+    "lifespan": "84 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 35",
+    "role": "Role description 35",
+    "lifespan": "85 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 36",
+    "role": "Role description 36",
+    "lifespan": "86 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 37",
+    "role": "Role description 37",
+    "lifespan": "87 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 38",
+    "role": "Role description 38",
+    "lifespan": "88 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 39",
+    "role": "Role description 39",
+    "lifespan": "89 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 40",
+    "role": "Role description 40",
+    "lifespan": "90 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 41",
+    "role": "Role description 41",
+    "lifespan": "91 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 42",
+    "role": "Role description 42",
+    "lifespan": "92 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 43",
+    "role": "Role description 43",
+    "lifespan": "93 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 44",
+    "role": "Role description 44",
+    "lifespan": "94 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 45",
+    "role": "Role description 45",
+    "lifespan": "95 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 46",
+    "role": "Role description 46",
+    "lifespan": "96 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 47",
+    "role": "Role description 47",
+    "lifespan": "97 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 48",
+    "role": "Role description 48",
+    "lifespan": "98 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 49",
+    "role": "Role description 49",
+    "lifespan": "99 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 50",
+    "role": "Role description 50",
+    "lifespan": "100 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 51",
+    "role": "Role description 51",
+    "lifespan": "101 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 52",
+    "role": "Role description 52",
+    "lifespan": "102 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 53",
+    "role": "Role description 53",
+    "lifespan": "103 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 54",
+    "role": "Role description 54",
+    "lifespan": "104 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 55",
+    "role": "Role description 55",
+    "lifespan": "105 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 56",
+    "role": "Role description 56",
+    "lifespan": "106 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 57",
+    "role": "Role description 57",
+    "lifespan": "107 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 58",
+    "role": "Role description 58",
+    "lifespan": "108 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 59",
+    "role": "Role description 59",
+    "lifespan": "109 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 60",
+    "role": "Role description 60",
+    "lifespan": "110 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 61",
+    "role": "Role description 61",
+    "lifespan": "111 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 62",
+    "role": "Role description 62",
+    "lifespan": "112 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 63",
+    "role": "Role description 63",
+    "lifespan": "113 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 64",
+    "role": "Role description 64",
+    "lifespan": "114 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 65",
+    "role": "Role description 65",
+    "lifespan": "115 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 66",
+    "role": "Role description 66",
+    "lifespan": "116 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 67",
+    "role": "Role description 67",
+    "lifespan": "117 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 68",
+    "role": "Role description 68",
+    "lifespan": "118 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 69",
+    "role": "Role description 69",
+    "lifespan": "119 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 70",
+    "role": "Role description 70",
+    "lifespan": "120 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 71",
+    "role": "Role description 71",
+    "lifespan": "121 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 72",
+    "role": "Role description 72",
+    "lifespan": "122 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 73",
+    "role": "Role description 73",
+    "lifespan": "123 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 74",
+    "role": "Role description 74",
+    "lifespan": "124 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 75",
+    "role": "Role description 75",
+    "lifespan": "125 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 76",
+    "role": "Role description 76",
+    "lifespan": "126 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 77",
+    "role": "Role description 77",
+    "lifespan": "127 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 78",
+    "role": "Role description 78",
+    "lifespan": "128 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 79",
+    "role": "Role description 79",
+    "lifespan": "129 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 80",
+    "role": "Role description 80",
+    "lifespan": "130 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 81",
+    "role": "Role description 81",
+    "lifespan": "131 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 82",
+    "role": "Role description 82",
+    "lifespan": "132 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 83",
+    "role": "Role description 83",
+    "lifespan": "133 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 84",
+    "role": "Role description 84",
+    "lifespan": "134 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 85",
+    "role": "Role description 85",
+    "lifespan": "135 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 86",
+    "role": "Role description 86",
+    "lifespan": "136 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 87",
+    "role": "Role description 87",
+    "lifespan": "137 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 88",
+    "role": "Role description 88",
+    "lifespan": "138 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 89",
+    "role": "Role description 89",
+    "lifespan": "139 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 90",
+    "role": "Role description 90",
+    "lifespan": "140 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 91",
+    "role": "Role description 91",
+    "lifespan": "141 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 92",
+    "role": "Role description 92",
+    "lifespan": "142 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 93",
+    "role": "Role description 93",
+    "lifespan": "143 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 94",
+    "role": "Role description 94",
+    "lifespan": "144 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 95",
+    "role": "Role description 95",
+    "lifespan": "145 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 96",
+    "role": "Role description 96",
+    "lifespan": "146 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 97",
+    "role": "Role description 97",
+    "lifespan": "147 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 98",
+    "role": "Role description 98",
+    "lifespan": "148 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 99",
+    "role": "Role description 99",
+    "lifespan": "149 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  },
+  {
+    "name": "Tree Species 100",
+    "role": "Role description 100",
+    "lifespan": "150 years",
+    "pH": [
+      6.0,
+      7.5
+    ],
+    "humidity": [
+      30,
+      70
+    ],
+    "moisture": [
+      40,
+      70
+    ]
+  }
+]
