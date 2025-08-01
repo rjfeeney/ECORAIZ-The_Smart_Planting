@@ -6,7 +6,8 @@
 
 ## Contributors
 
-[![Contributors](https://img.shields.io/badge/Contributors-👥%20View-blue?style=for-the-badge)](https://github.com/your-username/open-hearted/graphs/contributors)
+[![Contributors](https://img.shields.io/badge/👥%20Contributors-View-green?style=for-the-badge)](https://open-hearted.netlify.app/)
+
 
 
 
