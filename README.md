@@ -83,16 +83,16 @@
 
 We use labels to manage contributions:
 
-| Label Name           | Purpose                                      |
-|----------------------|----------------------------------------------|
-| `good first issue`   | Beginner-friendly tasks                      |
-| `feature`            | New functionality/features                   |
-| `bug`                | Unexpected behavior/fix                      |
-| `enhancement`        | UI/UX or performance improvements            |
-| `help wanted`        | Needs more eyes or collaboration             |
-| `documentation`      | Related to README, setup, or guides          |
-| `question`           | Open-ended or usage queries                  |
-| `design`             | UI or graphic related tasks                  |
+| Label Name           | Purpose                                | Color     |
+|----------------------|------------------------------------------|----|
+| `good first issue`   | Beginner-friendly tasks                 | 🟢 |
+| `feature`            | New functionality/features              |  🪄  |
+| `bug`                | Unexpected behavior/fix                 |  ✨  |
+| `enhancement`        | UI/UX or performance improvements       | 🧿 |
+| `help wanted`        | Needs more eyes or collaboration        | ⚠️   |
+| `documentation`      | Related to README, setup, or guides     |  📝  |
+| `question`           | Open-ended or usage queries             |  ⁉️  |
+| `design`             | UI or graphic related tasks             |  🎨  |
 
 ---
 
@@ -100,7 +100,7 @@ We use labels to manage contributions:
 
 We welcome contributions from:
 
-- 👨‍💻 Developers (JS, Python, ML)
+- 👨‍💻 Developers (JS, Python, ML , React , Content Writters)
 - 🧪 Environmental Scientists
 - 🎨 Designers
 - 🌱 Sustainability Enthusiasts
