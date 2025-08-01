@@ -185,7 +185,7 @@ function App() {
       humidity: [20, 60],
       moisture: [10, 30],
     }
-    // You can copy & extend more entries similarly to reach 40+
+    
   ];
   
 
