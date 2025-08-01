@@ -1,6 +1,6 @@
 import React from 'react';
 
-function DataTable({ zones, onChange, getSuggestion }) {
+function DataTable({ zones, onChange, getSuggestion}) {
   return (
     <table border="1" style={{ width: '100%', textAlign: 'center' }}>
       <thead>
@@ -37,7 +37,14 @@ function DataTable({ zones, onChange, getSuggestion }) {
                 onChange={(e) => onChange(i, 'moisture', parseFloat(e.target.value))}
               />
             </td>
-            <td>{getSuggestion(z)}</td>
+            <td>
+              <button
+                className='suggestion-redirect'
+                // onClick={...} // Add your redirect logic here
+              >
+                suggestion
+              </button>
+            </td>
           </tr>
         ))}
       </tbody>
