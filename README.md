@@ -1,64 +1,140 @@
+# 🌿 EcoRaiz: The Smart Planting System
 
-
-# EcoRaiz : Smart Planting System 🌿
-
-**EcoRaiz** is an intelligent planting system designed to help transform dry, barren land into thriving green forests. The system uses advanced image processing and environmental analysis to determine the best areas and plant species for cultivation.
+**EcoRaiz** is an intelligent planting system designed to help transform dry, barren land into thriving green forests. By combining image processing and environmental analysis, it identifies the best zones for planting and recommends tree species based on sustainability, soil condition, and climate.
 
 ---
 
-## 🌱 How It Works
+## 📸 How It Works
 
-1. **Upload Plot Image**
-   The user begins by uploading a top-view photo of the land or plot.
+1. **Upload Land Image**  
+   User uploads a top-view image of the plot.
 
-2. **Automatic Division**
-   🌳 EcoRaiz automatically divides the uploaded image into smaller sub-plots for detailed analysis.🌿
+2. **Automatic Plot Division**  
+   EcoRaiz divides the image into smaller sub-plots for detailed analysis.
 
-3. **Input Environmental Data**
-   For each sub-plot, the user enters key environmental parameters:
+3. **Environmental Data Input**  
+   For each sub-plot, the user provides:
+   - 🌡️ Temperature  
+   - 💧 Humidity  
+   - ⚗️ Soil pH  
+   - 🌱 Soil Moisture  
 
-   * Temperature
-   * Humidity
-   * Soil pH
-   * Soil Moisture
+4. **Analysis & Tree Suggestion**  
+   The system:
+   - Analyzes sub-plots
+   - Ranks suitable planting zones
+   - Suggests long-lifespan trees (20–50+ years)
 
-4. **Analysis and Ranking**
-   Based on the input data, the system analyzes each sub-plot and:
-
-   * Determines which areas are currently suitable for planting.
-   * Suggests the most suitable tree species for each sub-plot, prioritizing trees with a minimum lifespan of 20 to 50 years.
-
-5. **Visual Output**
-   The system generates a visual ranking overlay on the divided plot image, highlighting the best zones for planting and the recommended tree types.
-
----
-
-## 🚧 Project Status
-
-> ⚠️ **This project is currently in progress and is in the prototype stage.**
-> We are actively seeking **contributors** to help develop and improve the system.
+5. **Visual Output**  
+   Outputs a visually ranked overlay on the plot with planting suggestions.
 
 ---
 
-## 🔮 Future Plans
+## ⚙️ Tech Stack
 
-* Integrate **machine learning** to automate and improve the accuracy of environmental analysis and tree recommendations.
-* Allow users to **add custom features** and enhancements.
-* Expand support for more diverse ecosystems and tree databases.
-
----
-
-## 🤝 Contributors
-
-We welcome contributions from developers, designers, environmental scientists, and anyone passionate about reforestation and sustainability. If you're interested in contributing, please fork the repository, make your changes, and submit a pull request.
-
-> 💡 Add your contributionn to save the World:
-
+- **Frontend**: React.js
+- **Backend**: Node.js (Express)
+- **Image Processing**: Python (OpenCV, PIL, NumPy)
+- **Database**: MongoDB (or your preferred storage)
+- **Deployment**: Render / Vercel / Railway *(based on your choice)*
 
 ---
 
-## 🌍 Mission
+## 🚀 Setup Instructions
 
-EcoRaiz is committed to combating land degradation by enabling data-driven, sustainable afforestation. Our goal is to assist users in converting dry, underutilized lands into vibrant green forests that can thrive for decades.
+1. **Clone the Repo**
+   ```bash
+   git clone https://github.com/SuryaNarayananDev/ECORAIZ-The_Smart_Planting.git
+   cd ECORAIZ-The_Smart_Planting
+Frontend Setup
 
----
+bash
+Copy
+Edit
+cd frontend
+npm install
+npm run dev
+Backend Setup
+
+bash
+Copy
+Edit
+cd backend
+npm install
+npm run start
+Python (Image Processing) Setup
+
+bash
+Copy
+Edit
+cd image-processing
+pip install -r requirements.txt
+python app.py
+Ensure all services (frontend, backend, and Python server) are running concurrently.
+
+**🛠️ Tasks & Issues**
+✅ Core Modules (MVP)
+ Image upload and preview
+
+ Auto-subdivision of image
+
+ Manual input of environmental values
+
+ Tree recommendation logic
+
+ Visual ranking output
+
+**📌 To-Do (Raise as GitHub Issues)**
+
+ Integrate ML for tree prediction
+
+ Improve UI/UX of form and map
+
+ Display tree info dynamically
+
+ Add login/auth (optional)
+
+ Add mobile responsiveness
+
+**🏷 GitHub Labels**
+We use labels to manage contributions:
+
+Label Name	Purpose
+good first issue	Beginner-friendly tasks
+feature	New functionality/features
+bug	Unexpected behavior/fix
+enhancement	UI/UX or performance improvements
+help wanted	Needs more eyes or collaboration
+documentation	Related to README, setup, or guides
+question	Open-ended or usage queries
+design	UI or graphic related tasks
+
+🤝 Contributing
+We welcome contributions from:
+
+👨‍💻 Developers (JS, Python, ML)
+
+🧪 Environmental Scientists
+
+🎨 Designers
+
+🌱 Sustainability Enthusiasts
+
+📌 Steps to Contribute:
+Fork the repository
+
+Create your feature branch: git checkout -b feature-name
+
+Commit your changes: git commit -m "Add feature"
+
+Push to the branch: git push origin feature-name
+
+Submit a pull request
+
+📄 License
+This project is open-source and available under the MIT License.
+
+🌍 Mission
+EcoRaiz is dedicated to data-driven reforestation. Our vision is to empower users to convert underutilized land into flourishing green zones with long-lasting ecological impact.
+
+“Plant data, grow forests.” 🌱
