@@ -61,5 +61,22 @@
     "lastAction": "Project Team Member",
     "avatar": "https://avatars.githubusercontent.com/u/176638796?v=4",
     "git":"https://github.com/dheanarasan22"
+  },
+   {
+    "id": 6,
+    "name": "Vetri",
+    "points": 30,
+    "currentTask": "",
+    "lastAction": "Added Data Assets",
+    "avatar": "https://avatars.githubusercontent.com/u/176638796?v=4",
+    "git":"https://github.com/vetri79"
+  }, {
+    "id": 6,
+    "name": "Salai Dhean Arasan",
+    "points": 30,
+    "currentTask": "",
+    "lastAction": "Added Data Assets",
+    "avatar": "https://avatars.githubusercontent.com/u/189260563?v=4",
+    "git":"https://github.com/Vinith665"
   }
 ]
