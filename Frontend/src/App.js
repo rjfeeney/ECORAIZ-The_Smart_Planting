@@ -224,18 +224,23 @@ function App() {
   };
 
   return (
-    <div className="app">
-    <h1>🌱 Ecoraiz – Reforestation Zone Planner</h1>
-    <p>Upload a valley map, enter environmental data zone-wise, and get ideal forest species suggestions to protect biodiversity and rebuild ecosystems.</p>
-
-      <input type="file" accept="image/*" onChange={handleImageUpload} />
-      <div className="layout">
-        {image && <ImageGrid image={image} ranks={ranks} />}
-        <DataTable zones={zones} onChange={handleChange} getSuggestion={getForestSuggestions}/>
-
-
+    <div className="app-container">
+      <header className="main-header">
+        <h1>🌱 Ecoraiz – Reforestation Zone Planner</h1>
+        <p>
+          Upload a valley map, enter environmental data zone-wise, and get ideal forest species suggestions to protect biodiversity and rebuild ecosystems.
+        </p>
+      </header>
+      <div className="main-content">
+        <div className="left-panel">
+          <input type="file" accept="image/*" onChange={handleImageUpload} className="file-input" />
+          {image && <ImageGrid image={image} ranks={ranks} />}
+        </div>
+        <div className="right-panel">
+          <DataTable zones={zones} onChange={handleChange} getSuggestion={getForestSuggestions} />
+          <button className="analyze-btn" onClick={analyze}>Analyze</button>
+        </div>
       </div>
-      <button onClick={analyze}>Analyze</button>
     </div>
   );
 }

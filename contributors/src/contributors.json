@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "Suryanarayanan",
-    "points": 20,
+    "points": 70,
     "currentTask": "",
     "lastAction": "",
     "avatar": "https://avatars.githubusercontent.com/u/144770284?v=4",
@@ -78,5 +78,13 @@
     "lastAction": "Added Data Assets",
     "avatar": "https://avatars.githubusercontent.com/u/189260563?v=4",
     "git":"https://github.com/Vinith665"
+  }, {
+    "id": 10,
+    "name": "pugal",
+    "points": 20,
+    "currentTask": "logo design",
+    "lastAction": "logo design",
+    "avatar": "https://avatars.githubusercontent.com/u/129528076?v=4",
+    "git":"https://github.com/Pugal-04"
   }
 ]
