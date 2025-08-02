@@ -11,13 +11,19 @@ function App() {
   const [image, setImage] = useState(null);
   const [zones, setZones] = useState(defaultZones);
   const [ranks, setRanks] = useState([]);
+  const [fileSelected, setFileSelected] = useState(false);
 
   const handleImageUpload = (e) => {
     const file = e.target.files[0];
-    const url = URL.createObjectURL(file);
-    setImage(url);
-    setZones(defaultZones);
-    setRanks([]);
+    if (file) {
+      const url = URL.createObjectURL(file);
+      setImage(url);
+      setZones(defaultZones);
+      setRanks([]);
+      setFileSelected(true);
+    } else {
+      setFileSelected(false);
+    }
   };
 
   const handleChange = (index, field, value) => {
@@ -31,17 +37,16 @@ function App() {
       const [minPH, maxPH] = tree.pH;
       const [minHum, maxHum] = tree.humidity;
       const [minMoist, maxMoist] = tree.moisture;
-  
+
       return (
         zone.pH >= minPH && zone.pH <= maxPH &&
         zone.humidity >= minHum && zone.humidity <= maxHum &&
         zone.moisture >= minMoist && zone.moisture <= maxMoist
       );
     });
-  
+
     return suitable.map(t => `${t.name} (${t.role})`).join(', ') || '❌ No suitable match';
   };
-  
 
   const analyze = () => {
     const scored = zones.map((z, i) => {
@@ -69,8 +74,13 @@ function App() {
         </p>
       </header>
       <div className="main-content">
-        <div className="left-panel">
-          <input type="file" accept="image/*" onChange={handleImageUpload} className="file-input" />
+        <div className={`left-panel${fileSelected ? ' selected' : ''}`}>
+          <input
+            type="file"
+            accept="image/*"
+            onChange={handleImageUpload}
+            className={`file-input${fileSelected ? ' selected' : ''}`}
+          />
           {image && <ImageGrid image={image} ranks={ranks} />}
         </div>
         <div className="right-panel">
