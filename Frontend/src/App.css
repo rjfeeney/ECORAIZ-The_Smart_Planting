@@ -55,8 +55,8 @@ input {
 .main-content {
   display: flex;
   justify-content: center;
-  align-items: flex-start;
-  gap: 32px;
+  align-items: center;
+  gap: 150px; /* Increased space between left and right panel */
   max-width: 1200px;
   margin: 32px auto 0 auto;
   padding: 0 12px;
@@ -64,7 +64,7 @@ input {
 }
 
 .left-panel, .right-panel {
-  background: #fff;
+  background: #fbfbfb;
   border-radius: 16px;
   box-shadow: 0 4px 16px #e0e0e0;
   padding: 24px;
@@ -72,9 +72,80 @@ input {
   flex: 1;
 }
 
+.left-panel {
+  /* background removed */
+  padding: 20px;
+  border-radius: 18px;
+  box-shadow: 0 4px 16px rgb(229, 232, 235), 0 1.5px 8px rgb(225, 223, 227);
+  margin-right: 20px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;      /* Center content horizontally */
+  justify-content: center;  /* Center content vertically */
+  min-width: 260px;
+  max-width: 400px;
+  margin-left: auto;        /* Center the box in its container */
+  margin-right: auto;
+}
+
+.left-panel.selected {
+  background: none !important;
+  box-shadow: 0 0 0 6px transparent, 0 8px 32px rgba(103, 58, 183, 0.00);
+  border: none;
+}
+
+.left-panel:hover {
+  transform: scale(1.02);
+  background: none !important;
+}
+
 .file-input {
   margin-bottom: 24px;
   width: 100%;
+  border: 2px solid #4CAF50;
+  border-radius: 8px;
+  padding: 10px;
+  background: #f0fff0;
+  transition: box-shadow 0.3s, border-color 0.3s;
+  box-shadow: 0 2px 8px rgba(76, 175, 80, 0.1);
+  outline: none;
+  font-size: 1rem;
+  cursor: pointer;
+}
+
+.file-input.selected {
+  border-color: #2196F3;
+  background: linear-gradient(90deg, #e3f2fd 60%, #bbdefb 100%);
+  box-shadow: 0 0 0 4px #90caf9, 0 4px 20px rgba(33, 150, 243, 0.18);
+  color: #1565c0;
+  font-weight: bold;
+  transition: background 0.4s, box-shadow 0.4s, border-color 0.4s;
+}
+
+.file-input::-webkit-file-upload-button {
+  background: #ff9800;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.file-input::file-selector-button {
+  background: #ff9800;
+  color: #fff;
+  border: none;
+  border-radius: 6px;
+  padding: 8px 18px;
+  font-weight: bold;
+  cursor: pointer;
+  transition: background 0.3s;
+}
+.file-input::-webkit-file-upload-button:hover,
+.file-input::file-selector-button:hover {
+  background: #fb8c00;
 }
 
 .analyze-btn {
@@ -103,10 +174,22 @@ input {
   }
   .left-panel, .right-panel {
     min-width: unset;
+    max-width: 100%;
+    margin-right: 0;
     margin-bottom: 16px;
     padding: 16px;
   }
   .main-header h1 {
     font-size: 1.3rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .left-panel, .right-panel {
+    padding: 10px;
+    border-radius: 12px;
+  }
+  .main-header h1 {
+    font-size: 1.1rem;
   }
 }
