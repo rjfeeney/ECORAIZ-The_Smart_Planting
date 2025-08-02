@@ -102,7 +102,7 @@ function App() {
               <div
                 key={c.id}
                 style={{
-                  background: selected === c.id ? '#06c7eeff' : '#fff',
+                  background: selected === c.id ? '#94e2f1ff' : '#fff',
                   borderRadius: 16,
                   boxShadow: '0 4px 16px #e0e0e0',
                   padding: 20,
