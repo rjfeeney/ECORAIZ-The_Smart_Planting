@@ -3,6 +3,7 @@ import './App.css';
 import ImageGrid from './components/ImageGrid';
 import DataTable from './components/DataTable';
 import forestSpeciesDB from './components/tree_data';
+import Footer from './components/Footer';
 
 const defaultZones = Array(9).fill({ pH: '', humidity: '', moisture: '' });
 
@@ -77,6 +78,8 @@ function App() {
           <button className="analyze-btn" onClick={analyze}>Analyze</button>
         </div>
       </div>
+    {/* </div> */}
+    <Footer />
     </div>
   );
 }
