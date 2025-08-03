@@ -1,0 +1,18 @@
+.container-about{
+     min-height: 50vh;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          /* background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); */
+          padding: 20px;
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.about-card {
+          background: white;
+          border-radius: 16px;
+          box-shadow: 0 10px 30px rgba(0, 0, 0, 0.527);
+          width: 100%;
+          max-width: 450px;
+          padding: 30px;
+          transition: all 0.3s ease;
+        }
