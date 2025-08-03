@@ -3,10 +3,10 @@ import { FiEdit2, FiSave, FiUser, FiMail, FiMapPin } from 'react-icons/fi';
 import './Styles/Profile.css'; 
 const SimpleProfilePage = () => {
   const [user, setUser] = useState({
-    name: 'Alex Johnson',
-    email: 'alex.johnson@example.com',
-    location: 'San Francisco, CA',
-    picture: 'https://images.unsplash.com/photo-1531427186611-ecfd6d936c79?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=300&q=80'
+    name: 'Tony Starck',
+    email: 'IamIronMan@avangers.com',
+    location: 'palakkad',
+    picture: 'https://pbs.twimg.com/media/Exz8q2yXIAIXzDU.jpg:large'
   });
 
   const [isEditing, setIsEditing] = useState(false);
