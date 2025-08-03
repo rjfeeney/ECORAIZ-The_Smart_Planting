@@ -2,7 +2,6 @@ import React, { useState } from 'react';
 import ImageGrid from './ImageGrid';
 import DataTable from './DataTable';
 import forestSpeciesDB from './tree_data';
-import Header from './Header.js'
 import './Styles/Home.css';
 
 const defaultZones = Array(9).fill({ pH: '', humidity: '', moisture: '' });

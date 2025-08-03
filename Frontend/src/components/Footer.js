@@ -1,6 +1,5 @@
 import React from "react";
-import { FaGithub } from "react-icons/fa"; // Add FaUserHeart
-
+import { FaGithub } from "react-icons/fa";
 const Footer = () => (
   <footer
     style={{
@@ -36,8 +35,16 @@ const Footer = () => (
           background: "rgba(255,255,255,0.08)",
           transition: "background 0.2s"
         }}
-        onMouseOver={e => (e.currentTarget.style.background = "#1a3b1cff",e.currentTarget.style.color = "#009688")}
-        onMouseOut={e => (e.currentTarget.style.background = "rgba(255, 255, 255, 1)",e.currentTarget.style.color = "#009688")}
+        onMouseOver={e => {
+          e.currentTarget.style.background = "#1a3b1cff";
+          e.currentTarget.style.color = "#009688";
+        }}
+
+        onMouseOut={e => {
+          e.currentTarget.style.background = "rgba(255, 255, 255, 1)";
+          e.currentTarget.style.color = "#009688";
+        }}
+
       >
         <FaGithub style={{ marginRight: "8px", fontSize: "1.2em" }} />
         Github
@@ -56,8 +63,15 @@ const Footer = () => (
           background: "rgba(255,255,255,0.08)",
           transition: "background 0.2s"
         }}
-        onMouseOver={e => (e.currentTarget.style.background = "#04423bff",e.currentTarget.style.color = "#009688")}
-        onMouseOut={e => (e.currentTarget.style.background = "rgba(255, 255, 255, 0.98)",e.currentTarget.style.color = "#009688")}
+        onMouseOver={e => {
+          e.currentTarget.style.background = "#04423bff";
+          e.currentTarget.style.color = "#009688";
+        }}
+
+        onMouseOut={e => {
+          e.currentTarget.style.background = "rgba(255, 255, 255, 0.98)";
+          e.currentTarget.style.color = "#009688";
+        }}
       >
         <span style={{ marginRight: "8px", fontSize: "1.2em" }}>🧑‍💻</span>
         Contributors
