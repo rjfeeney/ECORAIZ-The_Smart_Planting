@@ -5,6 +5,8 @@ import Home from './components/Home';
 import Footer from './components/Footer';
 import Profile from './components/ProfilePage';
 import About from './components/About';
+import Soil_Analysis from './components/Soil_Analysis';
+import Report from './components/Report';
 
 function App() {
   return (
@@ -14,8 +16,8 @@ function App() {
         <Route path="/" element={<Home />} />
         <Route path="/profile" element={<Profile />} />
         <Route path="/about" element={<About />} />
-        {/* <Route path="/soil-analysis" element={<SoilAnalysis />} /> */}
-        {/* Add more routes here if needed */}
+         <Route path="/soil-analysis" element={<Soil_Analysis/>} />
+         <Route path="/report" element={<Report/>} />
       </Routes>
       <Footer />
     </div>
