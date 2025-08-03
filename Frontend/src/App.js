@@ -3,7 +3,8 @@ import './App.css';
 import ImageGrid from './components/ImageGrid';
 import DataTable from './components/DataTable';
 import forestSpeciesDB from './components/tree_data';
-import Footer from './components/Footer';
+// import Footer from './components/Footer';
+import Header from './components/Header.js'
 
 const defaultZones = Array(9).fill({ pH: '', humidity: '', moisture: '' });
 
@@ -67,12 +68,8 @@ function App() {
 
   return (
     <div className="app-container">
-      <header className="main-header">
-        <h1>🌱 Ecoraiz – Reforestation Zone Planner</h1>
-        <p>
-          Upload a valley map, enter environmental data zone-wise, and get ideal forest species suggestions to protect biodiversity and rebuild ecosystems.
-        </p>
-      </header>
+      <Header/>
+      
       <div className="main-content">
         <div className={`left-panel${fileSelected ? ' selected' : ''}`}>
           <input
@@ -89,7 +86,7 @@ function App() {
         </div>
       </div>
     {/* </div> */}
-    <Footer />
+    {/* <Footer /> */}
     </div>
   );
 }
