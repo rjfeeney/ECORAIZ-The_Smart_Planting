@@ -73,7 +73,7 @@
   }, {
     "id": 9,
     "name": "Vinith",
-    "points": 110,
+    "points": 160,
     "currentTask": "",
     "lastAction": "Added Data Assets",
     "avatar": "https://avatars.githubusercontent.com/u/189260563?v=4",
@@ -89,7 +89,7 @@
   },  {
     "id": 11,
     "name": "Yazhini",
-    "points": 140,
+    "points": 190,
     "currentTask": "Tree Suggestion System",
     "lastAction": "Data Collection",
     "avatar": "https://avatars.githubusercontent.com/u/165694594?v=4",
@@ -118,5 +118,13 @@
     "lastAction": "Data Collection",
     "avatar": "https://avatars.githubusercontent.com/u/153479730?v=4",
     "git":"https://github.com/yuvarajm046"
+  },  {
+    "id": 15,
+    "name": "Sriharan",
+    "points": 100,
+    "currentTask": "",
+    "lastAction": "Data Collection",
+    "avatar": "https://avatars.githubusercontent.com/u/181638363?v=4",
+    "git":"https://github.com/sriharan0804"
   }
 ]
