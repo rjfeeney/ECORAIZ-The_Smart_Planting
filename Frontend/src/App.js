@@ -1,5 +1,5 @@
 import React from 'react';
-import { Routes, Route } from 'react-router-dom'; // ❌ don't import BrowserRouter here
+import { Routes, Route } from 'react-router-dom'; 
 import Header from './components/Header';
 import Home from './components/Home';
 import Footer from './components/Footer';
@@ -7,6 +7,8 @@ import Profile from './components/ProfilePage';
 import About from './components/About';
 import SoilAnalysis from './components/SoilAnalysis';
 import Report from './components/Report';
+import Signup from './components/Signup';
+import { FaAmericanSignLanguageInterpreting } from 'react-icons/fa';
 
 function App() {
   return (
@@ -18,6 +20,7 @@ function App() {
         <Route path="/about" element={<About />} />
          <Route path="/soil-analysis" element={<SoilAnalysis/>} />
          <Route path="/report" element={<Report/>} />
+         <Route path="/signup" element={<Signup />} />"
       </Routes>
       <Footer />
     </div>
