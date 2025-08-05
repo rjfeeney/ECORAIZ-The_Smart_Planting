@@ -1,11 +1,8 @@
- 
-
 import React, { useEffect, useRef } from 'react';
- // Import the separated CSS file
 import './Styles/Signin.css';
 const Signin = () => {
+ 
   const natureBackgroundRef = useRef(null);
-  
   useEffect(() => {
     const createLeaf = () => {
       if (!natureBackgroundRef.current) return;
