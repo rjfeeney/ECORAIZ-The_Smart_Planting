@@ -1,0 +1,173 @@
+Name,Type,pH,Humidity,Moisture,Lifespan,Climate Zone,Weather Condition
+Mango,Fruit,5.5-7.5,50-80%,Medium,100,Tropical,Monsoon
+Neem,Medicinal,6.0-8.0,40-70%,Low,150,Tropical,Dry Season
+Jackfruit,Fruit,6.0-7.5,60-90%,High,60,Tropical,Monsoon
+Teak,Timber,6.5-7.5,40-80%,Medium,150,Tropical,Monsoon
+Mahogany,Timber,6.0-7.5,50-80%,Medium,100,Tropical,Monsoon
+Bamboo,Multipurpose,5.5-6.5,60-90%,High,50,Tropical,Monsoon
+Guava,Fruit,5.0-7.0,50-80%,Medium,40,Tropical,Monsoon
+Papaya,Fruit,5.5-6.5,60-90%,High,20,Tropical,Monsoon
+Coconut,Fruit,5.0-8.0,60-90%,High,80,Tropical,Monsoon
+Eucalyptus,Timber,5.5-7.5,40-70%,Low,60,Tropical,Monsoon
+Peepal,Shade,6.0-8.0,40-80%,Medium,200,Tropical,Monsoon
+Ashoka,Ornamental,6.0-7.5,50-80%,Medium,100,Tropical,Monsoon
+Sandalwood,Medicinal,6.0-7.5,40-70%,Low,80,Tropical,Monsoon
+Cashew,Fruit,5.0-6.5,50-80%,Medium,45,Tropical,Monsoon
+Apple,Fruit,6.0-7.0,30-60%,Medium,80,Temperate,Cold Winter
+Orange,Fruit,6.0-7.5,50-80%,Medium,50,Subtropical,Hot Summer
+Almond,Fruit,6.0-7.5,30-60%,Low,50,Tropical,Monsoon
+Banana,Fruit,5.5-6.5,60-90%,High,25,Tropical,Monsoon
+Pomegranate,Fruit,5.5-7.0,30-60%,Low,50,Tropical,Monsoon
+Fig,Fruit,6.0-7.5,30-60%,Low,50,Tropical,Monsoon
+Lychee,Fruit,5.0-6.5,60-80%,High,40,Tropical,Monsoon
+Mulberry,Fruit,5.5-6.5,50-80%,Medium,40,Tropical,Monsoon
+Sapodilla,Fruit,6.0-7.5,50-80%,Medium,60,Tropical,Monsoon
+Tamarind,Fruit,5.0-6.5,40-70%,Low,80,Tropical,Dry Season
+Date Palm,Fruit,7.0-8.5,20-50%,Low,100,Desert / Arid,Hot Summer
+Avocado,Fruit,5.0-7.0,50-80%,Medium,50,Tropical,Monsoon
+Black Plum,Fruit,5.5-6.5,50-80%,Medium,60,Tropical,Monsoon
+Custard Apple,Fruit,6.0-7.5,50-80%,Medium,40,Temperate,Cold Winter
+Starfruit,Fruit,4.5-6.5,50-80%,High,35,Tropical,Monsoon
+Cinnamon,Medicinal,4.5-5.5,60-90%,High,50,Tropical,Monsoon
+Clove,Medicinal,5.5-6.5,60-80%,High,60,Tropical,Monsoon
+Bay Laurel,Medicinal,6.0-7.0,50-80%,Medium,40,Tropical,Monsoon
+Pepper Tree,Medicinal,5.5-6.5,60-80%,Medium,30,Tropical,Monsoon
+Areca Palm,Multipurpose,5.5-6.5,60-90%,High,40,Tropical,Monsoon
+Betel Nut,Multipurpose,5.5-6.5,60-90%,High,40,Tropical,Monsoon
+Rubber Tree,Multipurpose,5.0-6.5,60-90%,High,70,Tropical,Monsoon
+Cocoa,Fruit,5.0-7.5,60-90%,High,40,Tropical,Monsoon
+Coffee,Fruit,5.0-6.5,60-90%,High,40,Tropical,Monsoon
+Tea,Medicinal,4.5-5.5,60-90%,High,50,Tropical,Monsoon
+Grapefruit,Fruit,5.5-6.5,50-80%,Medium,40,Tropical,Monsoon
+Lemon,Fruit,5.5-6.5,50-80%,Medium,30,Subtropical,Hot Summer
+Mandarin Orange,Fruit,5.5-6.5,50-80%,Medium,35,Subtropical,Hot Summer
+Walnut,Fruit,6.0-7.0,40-70%,Low,100,Tropical,Monsoon
+Pistachio,Fruit,6.0-7.8,30-50%,Low,80,Tropical,Monsoon
+Hazelnut,Fruit,5.5-7.5,40-70%,Low,70,Tropical,Monsoon
+Chestnut,Fruit,5.5-6.5,50-80%,Medium,60,Tropical,Monsoon
+Kumquat,Fruit,5.5-6.5,50-80%,Medium,30,Tropical,Monsoon
+Persimmon,Fruit,6.0-7.5,50-80%,Medium,50,Tropical,Monsoon
+Breadfruit,Fruit,6.1-7.4,60-80%,High,70,Tropical,Monsoon
+Quince,Fruit,6.0-7.0,50-80%,Medium,50,Tropical,Monsoon
+Jujube,Fruit,5.5-6.5,30-60%,Low,60,Tropical,Monsoon
+Loquat,Fruit,6.0-8.0,50-80%,Medium,50,Tropical,Monsoon
+Medlar,Fruit,6.0-7.5,50-80%,Medium,30,Tropical,Monsoon
+Serviceberry,Fruit,5.0-6.5,50-80%,Medium,50,Tropical,Monsoon
+Olive,Fruit,6.0-8.0,20-50%,Low,100,Subtropical,Hot Summer
+Pawpaw,Fruit,5.5-7.0,50-80%,Medium,30,Tropical,Monsoon
+Baobab,Shade,6.0-8.0,20-50%,Low,2000,Tropical,Monsoon
+Kapok,Shade,6.0-7.5,40-70%,Medium,150,Tropical,Monsoon
+Silk Cotton,Shade,6.0-7.5,40-70%,Medium,100,Tropical,Monsoon
+Jacaranda,Ornamental,6.0-7.5,40-70%,Medium,50,Tropical,Monsoon
+Flame Tree,Ornamental,6.0-7.5,40-70%,Medium,60,Tropical,Monsoon
+Golden Shower Tree,Ornamental,6.0-7.5,40-70%,Medium,50,Tropical,Monsoon
+Gulmohar,Ornamental,6.0-7.5,40-70%,Medium,50,Tropical,Monsoon
+Royal Poinciana,Ornamental,6.0-7.5,40-70%,Medium,50,Tropical,Monsoon
+Bottlebrush,Ornamental,5.5-6.5,50-80%,Medium,30,Tropical,Monsoon
+Magnolia,Ornamental,5.5-6.5,50-80%,Medium,40,Tropical,Monsoon
+Cherry Blossom,Ornamental,5.5-6.5,40-70%,Medium,40,Tropical,Monsoon
+Dogwood,Ornamental,5.5-6.5,40-70%,Medium,40,Tropical,Monsoon
+Redbud,Ornamental,6.0-7.0,40-70%,Medium,30,Tropical,Monsoon
+Lilac,Ornamental,6.0-7.0,40-70%,Medium,25,Tropical,Monsoon
+Forsythia,Ornamental,6.0-7.5,40-70%,Medium,25,Tropical,Monsoon
+Hibiscus,Ornamental,6.0-7.5,50-80%,High,25,Tropical,Monsoon
+Camellia,Ornamental,5.0-6.5,50-80%,High,50,Tropical,Monsoon
+Azalea,Ornamental,4.5-6.0,50-80%,High,40,Tropical,Monsoon
+Rhododendron,Ornamental,4.5-6.0,50-80%,High,50,Tropical,Monsoon
+Gardenia,Ornamental,5.0-6.0,50-80%,High,30,Tropical,Monsoon
+Oleander,Ornamental,6.0-8.0,40-70%,Medium,30,Tropical,Monsoon
+Bougainvillea,Ornamental,5.5-6.0,40-70%,Low,40,Tropical,Monsoon
+Ixora,Ornamental,5.0-6.0,50-80%,High,25,Tropical,Monsoon
+Frangipani,Ornamental,6.0-7.5,40-70%,Medium,40,Tropical,Monsoon
+Crape Myrtle,Ornamental,5.0-6.5,50-80%,Medium,40,Tropical,Monsoon
+Mock Orange,Ornamental,5.5-7.0,50-80%,Medium,30,Subtropical,Hot Summer
+Snowball Bush,Ornamental,5.5-7.0,50-80%,Medium,30,Tropical,Monsoon
+Spirea,Ornamental,6.0-7.5,50-80%,Medium,25,Tropical,Monsoon
+Weigela,Ornamental,6.0-7.5,50-80%,Medium,25,Tropical,Monsoon
+Viburnum,Ornamental,5.5-6.5,50-80%,Medium,40,Tropical,Monsoon
+Heather,Ornamental,4.5-6.0,50-80%,High,30,Tropical,Monsoon
+Lavender,Ornamental,6.5-8.0,40-70%,Low,25,Tropical,Monsoon
+Rose,Ornamental,6.0-6.5,50-80%,Medium,30,Tropical,Monsoon
+Marigold,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Sunflower,Ornamental,6.0-7.5,40-70%,Medium,1,Tropical,Monsoon
+Zinnia,Ornamental,6.0-7.5,50-80%,Medium,1,Tropical,Monsoon
+Petunia,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Dahlia,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Geranium,Ornamental,5.8-6.3,50-80%,Medium,2,Tropical,Monsoon
+Begonia,Ornamental,5.5-6.5,50-80%,Medium,2,Tropical,Monsoon
+Coleus,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Impatiens,Ornamental,6.0-7.5,50-80%,Medium,1,Tropical,Monsoon
+Salvia,Ornamental,5.5-6.5,50-80%,Medium,1,Tropical,Monsoon
+Snapdragon,Ornamental,6.2-7.0,50-80%,Medium,1,Tropical,Monsoon
+Alyssum,Ornamental,6.0-7.5,50-80%,Medium,1,Tropical,Monsoon
+Sweet Pea,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Morning Glory,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Nasturtium,Ornamental,6.0-7.5,50-80%,Medium,1,Tropical,Monsoon
+Cosmos,Ornamental,6.0-7.0,50-80%,Medium,1,Tropical,Monsoon
+Calendula,Ornamental,6.0-7.5,50-80%,Medium,1,Tropical,Monsoon
+Pansy,Ornamental,5.4-5.8,50-80%,Medium,2,Tropical,Monsoon
+Viola,Ornamental,5.4-5.8,50-80%,Medium,2,Tropical,Monsoon
+Primrose,Ornamental,5.5-6.5,50-80%,Medium,2,Tropical,Monsoon
+Holly,Ornamental,5.0-6.0,50-80%,Medium,100,Tropical,Monsoon
+Yew,Ornamental,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
+Juniper,Ornamental,5.0-6.0,50-80%,Medium,700,Tropical,Monsoon
+Cedar,Timber,5.0-6.0,50-80%,Medium,800,Tropical,Monsoon
+Fir,Timber,5.0-6.0,50-80%,Medium,300,Cold / Boreal,Cold
+Spruce,Timber,5.0-6.0,50-80%,Medium,200,Cold / Boreal,Cold
+Pine,Timber,5.0-6.0,50-80%,Medium,400,Cold / Boreal,Cold
+Hemlock,Timber,5.0-6.0,50-80%,Medium,300,Tropical,Monsoon
+Redwood,Timber,5.5-6.5,40-70%,Medium,2000,Tropical,Monsoon
+Sequoia,Timber,5.5-6.5,40-70%,Medium,3000,Tropical,Monsoon
+Maple,Timber,5.5-6.5,40-70%,Medium,400,Temperate,Cold
+Birch,Timber,5.0-6.0,40-70%,Medium,150,Tropical,Monsoon
+Aspen,Timber,5.5-6.5,40-70%,Medium,80,Tropical,Monsoon
+Alder,Timber,5.5-6.5,40-70%,Medium,60,Tropical,Monsoon
+Willow,Shade,5.5-6.5,50-80%,High,50,Tropical,Monsoon
+Sycamore,Shade,5.5-6.5,50-80%,Medium,400,Tropical,Monsoon
+Elm,Shade,6.0-7.5,50-80%,Medium,300,Tropical,Monsoon
+Beech,Shade,5.0-6.5,50-80%,Medium,300,Tropical,Monsoon
+Hornbeam,Shade,5.5-6.5,50-80%,Medium,150,Tropical,Monsoon
+Cottonwood,Shade,5.5-6.5,50-80%,High,100,Tropical,Monsoon
+Poplar,Shade,5.5-6.5,50-80%,Medium,80,Tropical,Monsoon
+Plane Tree,Shade,6.0-7.5,50-80%,Medium,300,Tropical,Monsoon
+Ailanthus,Shade,5.5-6.5,50-80%,Medium,50,Tropical,Monsoon
+Tallow Tree,Multipurpose,5.5-6.5,50-80%,Medium,50,Tropical,Monsoon
+Camphor Tree,Medicinal,5.5-6.5,50-80%,Medium,100,Tropical,Monsoon
+Koa,Timber,5.5-6.5,50-80%,Medium,200,Tropical,Monsoon
+Ironwood,Timber,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
+Ebony,Timber,5.0-6.0,50-80%,Medium,200,Tropical,Monsoon
+Rosewood,Timber,5.5-6.5,50-80%,Medium,300,Tropical,Monsoon
+Wenge,Timber,5.5-6.5,50-80%,Medium,200,Tropical,Monsoon
+Iroko,Timber,5.5-6.5,50-80%,Medium,200,Tropical,Monsoon
+Padauk,Timber,5.5-6.5,50-80%,Medium,150,Tropical,Monsoon
+Zebrawood,Timber,5.5-6.5,50-80%,Medium,150,Tropical,Monsoon
+Bubinga,Timber,5.5-6.5,50-80%,Medium,150,Tropical,Monsoon
+Purpleheart,Timber,5.5-6.5,50-80%,Medium,200,Tropical,Monsoon
+Sapele,Timber,5.5-6.5,50-80%,Medium,150,Tropical,Monsoon
+Larch,Timber,5.0-6.0,50-80%,Medium,200,Tropical,Monsoon
+Douglas Fir,Timber,5.0-6.0,50-80%,Medium,300,Cold / Boreal,Cold
+Balsam Fir,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+White Pine,Timber,5.0-6.0,50-80%,Medium,200,Cold / Boreal,Cold
+Scots Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Lodgepole Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Monterey Pine,Timber,5.0-6.0,50-80%,Medium,100,Cold / Boreal,Cold
+Aleppo Pine,Timber,5.0-6.0,50-80%,Medium,100,Cold / Boreal,Cold
+Stone Pine,Timber,5.0-6.0,50-80%,Medium,100,Cold / Boreal,Cold
+Longleaf Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Shortleaf Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Sugar Pine,Timber,5.0-6.0,50-80%,Medium,200,Cold / Boreal,Cold
+Ponderosa Pine,Timber,5.0-6.0,50-80%,Medium,300,Cold / Boreal,Cold
+Eastern White Pine,Timber,5.0-6.0,50-80%,Medium,200,Cold / Boreal,Cold
+Western White Pine,Timber,5.0-6.0,50-80%,Medium,200,Cold / Boreal,Cold
+Black Pine,Timber,5.0-6.0,50-80%,Medium,200,Cold / Boreal,Cold
+Red Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Yellow Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Pitch Pine,Timber,5.0-6.0,50-80%,Medium,150,Cold / Boreal,Cold
+Cypress,Timber,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
+Bald Cypress,Timber,5.0-6.0,50-80%,Medium,600,Tropical,Monsoon
+Mediterranean Cypress,Timber,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
+Arizona Cypress,Timber,5.0-6.0,50-80%,Medium,400,Tropical,Monsoon
+Hinoki Cypress,Timber,5.0-6.0,50-80%,Medium,400,Tropical,Monsoon
+Lawson Cypress,Timber,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
+Sugi,Timber,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
+Thuja,Timber,5.0-6.0,50-80%,Medium,500,Tropical,Monsoon
