@@ -1,0 +1,9 @@
+Zone 1: pH=6.5, humidity=45, moisture=35
+Zone 2: pH=7.0, humidity=50, moisture=40
+Zone 3: pH=6.8, humidity=48, moisture=38
+Zone 4: pH=6.2, humidity=42, moisture=32
+Zone 5: pH=7.2, humidity=55, moisture=45
+Zone 6: pH=6.9, humidity=47, moisture=37
+Zone 7: pH=6.4, humidity=44, moisture=34
+Zone 8: pH=7.1, humidity=52, moisture=42
+Zone 9: pH=6.7, humidity=46, moisture=36 

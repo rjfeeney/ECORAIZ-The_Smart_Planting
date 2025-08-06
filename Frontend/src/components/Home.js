@@ -12,6 +12,10 @@ function Home() {
   const [ranks, setRanks] = useState([]);
   const [fileSelected, setFileSelected] = useState(false);
 
+  const handleBulkUpdate = (parsedZones) => {
+    setZones(parsedZones);
+  };
+
   const handleImageUpload = (e) => {
     const file = e.target.files[0];
     if (file) {
@@ -77,7 +81,7 @@ function Home() {
           {image && <ImageGrid image={image} ranks={ranks} />}
         </div>
         <div className="right-panel">
-          <DataTable zones={zones} onChange={handleChange} getSuggestion={getForestSuggestions} />
+          <DataTable zones={zones} onChange={handleChange} getSuggestion={getForestSuggestions} onBulkUpdate={handleBulkUpdate} />
           <button className="analyze-btn" onClick={analyze}>Analyze</button>
         </div>
       </div>
