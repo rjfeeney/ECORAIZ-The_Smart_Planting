@@ -59,7 +59,7 @@
 
 2. **Frontend Setup**
    ```bash
-   cd ECORAIZ-The_Smart_Planting
+   cd ECORAIZ-The_Smart_Planting/Frontend
    npm install
    npm start
    ```
